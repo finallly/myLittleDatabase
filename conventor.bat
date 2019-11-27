@@ -1,0 +1,1 @@
+pyinstaller backend.py -F -w

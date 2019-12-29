@@ -1,2 +1,2 @@
 * linguist-vendored
-*.html linguist-language=Python
+*.py linguist-vendored=false
